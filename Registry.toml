@@ -1,0 +1,6 @@
+name = "schrimpf"
+uuid = "0c925310-898a-4353-9daa-a5e3838dd3b4"
+repo = "git@github.com:schrimpf/julia-registry.git"
+description = "Registry for packages under development"
+
+[packages]
