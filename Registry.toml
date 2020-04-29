@@ -4,3 +4,4 @@ repo = "git@github.com:schrimpf/julia-registry.git"
 description = "Registry for packages under development"
 
 [packages]
+d602b1ce-c8e8-436d-8dfe-952725c75295 = { name = "CovidData", path = "C/CovidData" }

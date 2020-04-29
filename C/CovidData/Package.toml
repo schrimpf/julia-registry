@@ -1,0 +1,3 @@
+name = "CovidData"
+uuid = "d602b1ce-c8e8-436d-8dfe-952725c75295"
+repo = "git@github.com:schrimpf/CovidData.jl.git"
